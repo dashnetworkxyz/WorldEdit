@@ -1,7 +1,7 @@
 ![WorldEdit](http://static.sk89q.com/readme/worldedit.png)
 =========
 
-WorldEdit is Minecraft mod that turns Minecraft into an in-game map editor (sorta, kinda).
+WorldEdit is a Minecraft mod that turns Minecraft into an in-game map editor (sorta, kinda).
 
 * Make awesome stuff with half the time OR make ***quadriply** awesome* creations with the same time :sparkles:
 * Get lost in hundreds of options and functions that even we've forgotten existed
@@ -9,7 +9,7 @@ WorldEdit is Minecraft mod that turns Minecraft into an in-game map editor (sort
 * Making fjords and other natural wonders with weird names
 * Also: fix grief, broken water, missing snow, raging fires, and other :poop:
 
-WorldEdit is open source!, so if you've just learned how to make a button blink, I probably recommend picking up a book on CS algorithms. The project is licensed using the GNU Lesser General Public License license, v3.
+WorldEdit is open source!, so if you've just learned how to make a button blink, I'd probably recommend picking up a book on CS algorithms. The project is licensed using the GNU Lesser General Public License license, v3.
 
 Compiling
 ---------
